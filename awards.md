@@ -5,7 +5,6 @@ permalink: /awards/
 ---
 
 
-
 1. **Best Teacher Award** – AI & DS Department, LBRCE  
    Academic Year: **2023–2024**  
 
