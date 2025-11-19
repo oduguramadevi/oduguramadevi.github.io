@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Awards & Achievements"
+title: "Awards"
 permalink: /awards/
 ---
 
@@ -17,7 +17,6 @@ permalink: /awards/
 3. **Best Women Researcher Award**  
    IJIEMR – Elsevier SSRN Researcher Awards 2022  
    Date: 10-09-2022  
-   Academic Year: **2022–2023**  
 
 4. **Best Researcher Award**  
    Global Eminence Awards – 2022  
@@ -34,7 +33,6 @@ permalink: /awards/
 7. **Best Editor Award**  
    International Journal for Innovative Engineering and Management Research  
    Date: March 2020  
-   Academic Year: **2019–2020**  
 
 8. **Best Teacher Award**  
    Department of CSE, LBRCE  
@@ -44,9 +42,7 @@ permalink: /awards/
    Academic Year: **2017–2018**  
 
 10. **Session Chair** – International Conference on Science, Technology and Management (ICSTM)  
-    Venue: Sri Durga Malleswari Siddhartha Mahila Kalasala  
-    Date: 30-03-2019  
+    Sri Durga Malleswari Siddhartha Mahila Kalasala – 30-03-2019  
 
 11. **Session Chair** – International Conference on Innovations in Science & Engineering  
-    Venue: ANU Bose Institute of Technology  
-    Date: 31-08-2019  
+    ANU Bose Institute of Technology – 31-08-2019  
