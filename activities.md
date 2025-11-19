@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Professional Activities"
+title: "Activities"
 permalink: /activities/
 ---
 
@@ -37,19 +37,17 @@ permalink: /activities/
 
 - **B.Tech Projects:** 11  
 - **M.Tech Projects:** 2  
-- **Ph.D. Scholars:** 2 (supervised / under supervision)  
+- **Ph.D. Scholars:** 2  
 
 ---
 
 ## Certification Courses
 
-- **CC0101EN – Introduction to Cloud Computing** – IBM (Online)  
-  Issue Date: 01-06-2024  
+- **CC0101EN – Introduction to Cloud Computing** (IBM – Online), 01-06-2024  
+- **EDXGAB01 – Generative AI for Business Leaders** (edX), 03-06-2024  
 
-- **EDXGAB01 – Generative AI for Business Leaders** – edX  
-  Issue Date: 03-06-2024  
-
-- **Problem Solving Through Programming in C** – NPTEL (IIT Kharagpur – 12 weeks), 2018 – *Elite*  
+- **NPTEL Course:**  
+  - Problem Solving Through Programming in C – IIT Kharagpur (12 weeks), 2018 – *Elite*  
 
 - **IBM / Coursera Courses Completed:**  
   - Data Science Methodology  
