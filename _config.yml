@@ -3,19 +3,11 @@ description: "Professor | Artificial Intelligence & Data Science | Researcher | 
 theme: minimal
 
 url: "https://oduguramadevi.github.io"
-baseurl: ""   # empty because this is a user site
+baseurl: ""
 
 markdown: kramdown
 kramdown:
   input: GFM
-
-author:
-  name: "Dr. O. Rama Devi"
-  email: "odugu.rama@gmail.com"
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 exclude:
   - README.md
