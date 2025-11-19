@@ -1,120 +1,89 @@
 ---
 layout: default
-title: "Dr. O. Rama Devi"
+title: "Home"
+permalink: /
 ---
 
 # Dr. O. Rama Devi
 
 **Professor, Artificial Intelligence & Data Science**  
-Lakireddy Bali Reddy College of Engineering (Autonomous), Mylavaram, Krishna (Dist.)  
-**Email:** [odugu.rama@gmail.com](mailto:odugu.rama@gmail.com)  
-**Phone:** +91-9160280782  
+Lakireddy Bali Reddy College of Engineering (Autonomous), Mylavaram, Krishna (Dist.), Andhra Pradesh, India  
+
+📧 [odugu.rama@gmail.com](mailto:odugu.rama@gmail.com)  
+📱 +91-9160280782  
 
 ---
 
 ## About
 
-I am a Professor in the Department of Artificial Intelligence and Data Science at Lakireddy Bali Reddy College of Engineering (Autonomous), Mylavaram.  
+I am a Professor in the Department of Artificial Intelligence and Data Science at Lakireddy Bali Reddy College of Engineering (Autonomous), Mylavaram.
 
-My primary **area of research** is **Data Science**, with interests spanning:
+My primary **area of research** is **Data Science**, with broad interests in:
 
-- Machine Learning and Deep Learning  
-- Artificial Intelligence and its applications  
+- Artificial Intelligence and Machine Learning  
+- Deep Learning and Computer Vision  
+- Data Science and Analytics  
+- IoT and Smart Systems  
 - Edge and Cloud Computing  
-- IoT-based smart systems  
-- Image Processing and Computer Vision  
 
-I am passionate about teaching, mentoring students, and driving impactful research and innovation.
+I enjoy teaching, mentoring students, and working on research problems that create social impact.
 
 ---
 
-## Current Position
+## Quick Navigation
 
-- **Professor**, Artificial Intelligence & Data Science,  
-  Lakireddy Bali Reddy College of Engineering, Mylavaram  
-  *(June 2025 – Present)*  
-
-Previously, I served as:
-
-- **Professor & Head of Department (HoD)**, AI & DS, LBRCE  
-  *(July 2021 – May 2025)*  
-
----
-
-## Quick Links
-
-- [Education](#education)  
-- [Experience](#academic--professional-experience)  
 - [Publications](publications.md)  
 - [Books](books.md)  
 - [Patents](patents.md)  
-- [Professional Activities & Service](activities.md)  
+- [Professional Activities](activities.md)  
 - [Awards & Achievements](awards.md)  
 
 ---
 
 ## Education
 
-- **Ph.D.**, JNTUK, Kakinada – *2017*  
+- **Ph.D.**, Computer Science & Engineering, JNTUK, Kakinada – *2017*  
 - **M.Tech**, K.L.C.E, Vaddeswaram – *2008*  
 - **B.Tech**, K.L.C.E, Vaddeswaram – *2005*  
 
 ---
 
-## Academic & Professional Experience
+## Academic Positions
 
-- **Professor**, Artificial Intelligence & Data Science,  
-  Lakireddy Bali Reddy College of Engineering, Mylavaram  
+- **Professor**, AI & Data Science, LBRCE, Mylavaram  
   *(June 2025 – Present)*  
 
-- **Professor & HoD**, Artificial Intelligence & Data Science,  
-  Lakireddy Bali Reddy College of Engineering, Mylavaram  
+- **Professor & HoD**, AI & Data Science, LBRCE, Mylavaram  
   *(July 2021 – May 2025)*  
 
-- **Professor**, Computer Science & Engineering,  
-  Lakireddy Bali Reddy College of Engineering, Mylavaram  
+- **Professor**, CSE, LBRCE, Mylavaram  
   *(May 2018 – July 2021)*  
 
-- **Associate Professor**, Computer Science & Engineering,  
-  Lakireddy Bali Reddy College of Engineering, Mylavaram  
+- **Associate Professor**, CSE, LBRCE  
   *(May 2017 – April 2018)*  
 
-- **Assistant Professor**, Information Technology,  
-  Prasad V. Potluri Siddhartha Institute of Technology (PVPSIT), Vijayawada  
+- **Assistant Professor**, IT, PVPSIT, Vijayawada  
   *(June 2011 – April 2017)*  
 
-- **Assistant Professor**, Computer Science & Engineering,  
-  Lakireddy Bali Reddy College of Engineering, Mylavaram  
+- **Assistant Professor**, CSE, LBRCE  
   *(June 2009 – April 2011)*  
 
-- **Lecturer**, Computer Science & Engineering,  
-  Koneru Lakshmaiah College of Engineering, Vaddeswaram  
+- **Lecturer**, CSE, K.L.C.E, Vaddeswaram  
   *(June 2008 – April 2009)*  
 
 ---
 
-## Highlights
+## Research Highlights
 
 - Publications in **SCI** and **SCOPUS** indexed journals and conferences  
-- **Books authored and edited** in Data Science, AI, and related areas  
-- **Multiple patents** published on AI-based and smart systems  
-- General Co-Chair / Coordinator / Convener for several **FDPs, workshops, and conferences**  
-- Recipient of multiple **Best Teacher** and **Researcher** awards  
+- Authored and edited books in **AI, Data Science, and IT**  
+- Multiple **patents** in healthcare, smart systems, and image analysis  
+- Organized and coordinated **FDPs, workshops, and international conferences**  
 
-For detailed lists, please see:  
+For complete details, please see:
 
 - [Publications](publications.md)  
 - [Books](books.md)  
 - [Patents](patents.md)  
-- [Professional Activities & Service](activities.md)  
+- [Professional Activities](activities.md)  
 - [Awards & Achievements](awards.md)  
-
----
-
-## Contact
-
-**Email:** [odugu.rama@gmail.com](mailto:odugu.rama@gmail.com)  
-**Phone:** +91-9160280782  
-
-Lakireddy Bali Reddy College of Engineering (Autonomous)  
-Mylavaram, Krishna District, Andhra Pradesh, India.
