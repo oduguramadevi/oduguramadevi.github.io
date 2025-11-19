@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  </head>
+  <body>
+    <div class="page">
+      <header class="site-header" style="border-bottom: 1px solid #ddd; padding: 10px 0;">
+        <div class="wrapper" style="max-width: 800px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+          <div class="site-title">
+            <a href="{{ "/" | relative_url }}" style="text-decoration: none; font-weight: bold; font-size: 1.2rem;">
+              {{ site.title }}
+            </a>
+          </div>
+          <nav class="site-nav" style="display: flex; gap: 10px; flex-wrap: wrap; font-size: 0.95rem;">
+            <a href="{{ "/" | relative_url }}">Home</a>
+            <a href="{{ "/publications/" | relative_url }}">Publications</a>
+            <a href="{{ "/books/" | relative_url }}">Books</a>
+            <a href="{{ "/patents/" | relative_url }}">Patents</a>
+            <a href="{{ "/activities/" | relative_url }}">Activities</a>
+            <a href="{{ "/awards/" | relative_url }}">Awards</a>
+          </nav>
+        </div>
+      </header>
+
+      <main class="site-content">
+        <div class="wrapper" style="max-width: 800px; margin: 20px auto;">
+          {{ content }}
+        </div>
+      </main>
+
+      <footer class="site-footer" style="border-top: 1px solid #ddd; margin-top: 40px; padding: 10px 0;">
+        <div class="wrapper" style="max-width: 800px; margin: 0 auto; font-size: 0.85rem; color: #666;">
+          &copy; {{ site.time | date: "%Y" }} {{ site.title }}.
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
