@@ -18,25 +18,15 @@ Lakireddy Bali Reddy College of Engineering (Autonomous), Mylavaram, Krishna (Di
 
 I am a Professor in the Department of Artificial Intelligence and Data Science at Lakireddy Bali Reddy College of Engineering (Autonomous), Mylavaram.
 
-My primary **area of research** is **Data Science**, with broad interests in:
+My primary **area of research** is **Data Science**, with interests including:
 
 - Artificial Intelligence and Machine Learning  
 - Deep Learning and Computer Vision  
 - Data Science and Analytics  
-- IoT and Smart Systems  
+- IoT-based Smart Systems  
 - Edge and Cloud Computing  
 
-I enjoy teaching, mentoring students, and working on research problems that create social impact.
-
----
-
-## Quick Navigation
-
-- [Publications](publications.md)  
-- [Books](books.md)  
-- [Patents](patents.md)  
-- [Professional Activities](activities.md)  
-- [Awards & Achievements](awards.md)  
+I am passionate about teaching, mentoring students, and working on research that creates social impact.
 
 ---
 
@@ -50,40 +40,20 @@ I enjoy teaching, mentoring students, and working on research problems that crea
 
 ## Academic Positions
 
-- **Professor**, AI & Data Science, LBRCE, Mylavaram  
-  *(June 2025 – Present)*  
-
-- **Professor & HoD**, AI & Data Science, LBRCE, Mylavaram  
-  *(July 2021 – May 2025)*  
-
-- **Professor**, CSE, LBRCE, Mylavaram  
-  *(May 2018 – July 2021)*  
-
-- **Associate Professor**, CSE, LBRCE  
-  *(May 2017 – April 2018)*  
-
-- **Assistant Professor**, IT, PVPSIT, Vijayawada  
-  *(June 2011 – April 2017)*  
-
-- **Assistant Professor**, CSE, LBRCE  
-  *(June 2009 – April 2011)*  
-
-- **Lecturer**, CSE, K.L.C.E, Vaddeswaram  
-  *(June 2008 – April 2009)*  
+- **Professor**, AI & Data Science, LBRCE – *June 2025 – Present*  
+- **Professor & HoD**, AI & Data Science, LBRCE – *July 2021 – May 2025*  
+- **Professor**, CSE, LBRCE – *May 2018 – July 2021*  
+- **Associate Professor**, CSE, LBRCE – *May 2017 – April 2018*  
+- **Assistant Professor**, IT, PVPSIT, Vijayawada – *June 2011 – April 2017*  
+- **Assistant Professor**, CSE, LBRCE – *June 2009 – April 2011*  
+- **Lecturer**, CSE, K.L.C.E, Vaddeswaram – *June 2008 – April 2009*  
 
 ---
 
-## Research Highlights
+## Quick Links
 
-- Publications in **SCI** and **SCOPUS** indexed journals and conferences  
-- Authored and edited books in **AI, Data Science, and IT**  
-- Multiple **patents** in healthcare, smart systems, and image analysis  
-- Organized and coordinated **FDPs, workshops, and international conferences**  
-
-For complete details, please see:
-
-- [Publications](publications.md)  
-- [Books](books.md)  
-- [Patents](patents.md)  
-- [Professional Activities](activities.md)  
-- [Awards & Achievements](awards.md)  
+- [Publications]({{ "/publications/" | relative_url }})  
+- [Books]({{ "/books/" | relative_url }})  
+- [Patents]({{ "/patents/" | relative_url }})  
+- [Professional Activities]({{ "/activities/" | relative_url }})  
+- [Awards & Achievements]({{ "/awards/" | relative_url }})  
