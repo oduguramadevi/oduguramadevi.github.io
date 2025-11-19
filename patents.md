@@ -7,7 +7,6 @@ permalink: /patents/
 
 
 
-
 1. **AI Based Cervical Cancer Detection Device**  
    *Application Number:* 455302-001  
    *Year:* 2024–2025  
