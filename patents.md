@@ -4,7 +4,7 @@ title: "Patents"
 permalink: /patents/
 ---
 
-# Patents
+
 
 ## Patents Published
 
