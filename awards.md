@@ -4,7 +4,7 @@ title: "Awards & Achievements"
 permalink: /awards/
 ---
 
-# Awards & Achievements
+
 
 1. **Best Teacher Award** – AI & DS Department, LBRCE  
    Academic Year: **2023–2024**  
