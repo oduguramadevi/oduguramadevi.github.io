@@ -4,7 +4,7 @@ title: "Activities"
 permalink: /activities/
 ---
 
-# Professional Activities & Academic Service
+
 
 ## Workshops / FDPs / STTPs / Training Programs Organized
 
