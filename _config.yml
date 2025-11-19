@@ -1,15 +1,19 @@
 title: "Dr. O. Rama Devi"
 description: "Professor | Artificial Intelligence & Data Science | Researcher | Author"
-theme: minimal
+theme: minima
 
+# Because this is a user site: https://oduguramadevi.github.io
 url: "https://oduguramadevi.github.io"
-baseurl: ""
+baseurl: ""   # must be empty for user site
 
-markdown: kramdown
-kramdown:
-  input: GFM
+author:
+  name: "Dr. O. Rama Devi"
+  email: "odugu.rama@gmail.com"
 
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
+# Show these pages in the top navigation bar
+header_pages:
+  - publications.md
+  - books.md
+  - patents.md
+  - activities.md
+  - awards.md
