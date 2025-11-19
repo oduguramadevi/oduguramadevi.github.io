@@ -4,7 +4,7 @@ title: "Books & Chapters"
 permalink: /books/
 ---
 
-# Books & Book Chapters
+
 
 ## Books
 
