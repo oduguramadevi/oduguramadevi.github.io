@@ -6,7 +6,7 @@ permalink: /patents/
 
 
 
-## Patents Published
+
 
 1. **AI Based Cervical Cancer Detection Device**  
    *Application Number:* 455302-001  
