@@ -1,0 +1,93 @@
+# Site settings
+title: "Dr. O. Rama Devi"
+subtitle: "Professor | Artificial Intelligence & Data Science | Researcher | Author"
+email: "odugu.rama@gmail.com"
+description: "Academic profile, publications, books, patents, awards, and professional activities."
+url: "https://YOUR-GITHUB-USERNAME.github.io"
+baseurl: ""        # keep empty for a user site
+repository: "YOUR-GITHUB-USERNAME/YOUR-REPO-NAME"
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+permalink: /:title/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+paginate: 5
+paginate_path: "/page:num/"
+
+# Author profile
+author:
+  name: "Dr. O. Rama Devi"
+  avatar: "/assets/images/profile.jpg"   # add your photo here
+  bio: "Professor, AI & Data Science | Researcher | Author | Innovator"
+  location: "Andhra Pradesh, India"
+  email: "odugu.rama@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:odugu.rama@gmail.com"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/YOUR-GITHUB-USERNAME"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/YOUR-LINK"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/YOUR-ID"
+
+# Theme defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "main"
+
+# Navigation menu
+nav:
+  main:
+    - title: "Home"
+      url: "/"
+    - title: "Publications"
+      url: "/publications/"
+    - title: "Books"
+      url: "/books/"
+    - title: "Patents"
+      url: "/patents/"
+    - title: "Activities"
+      url: "/activities/"
+    - title: "Awards"
+      url: "/awards/"
+
+# Include files
+include:
+  - _pages
+
+# Exclusions
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+
+# SEO
+locale: "en-US"
+timezone: "Asia/Kolkata"
