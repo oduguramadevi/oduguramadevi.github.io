@@ -2,8 +2,8 @@ title: "Dr. O. Rama Devi"
 description: "Professor | Artificial Intelligence & Data Science | Researcher | Author"
 theme: minimal
 
-url: "https://YOUR-GITHUB-USERNAME.github.io"
-baseurl: ""   # keep empty if this is a user site: YOUR-GITHUB-USERNAME.github.io
+url: "https://oduguramadevi.github.io"
+baseurl: ""   # empty because this is a user site
 
 markdown: kramdown
 kramdown:
