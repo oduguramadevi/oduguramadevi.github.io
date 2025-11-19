@@ -2,25 +2,17 @@ title: "Dr. O. Rama Devi"
 description: "Professor | Artificial Intelligence & Data Science | Researcher | Author"
 theme: minimal
 
-# If this is a user/organization site (rama-dev i.e. rama-dev.github.io)
 url: "https://YOUR-GITHUB-USERNAME.github.io"
-baseurl: ""   # keep empty for user site
-
-# If this is a project site (github.com/USER/portfolio)
-# then set:
-# url: "https://YOUR-GITHUB-USERNAME.github.io"
-# baseurl: "/YOUR-REPO-NAME"
+baseurl: ""   # keep empty if this is a user site: YOUR-GITHUB-USERNAME.github.io
 
 markdown: kramdown
 kramdown:
   input: GFM
 
-# Basic SEO
 author:
   name: "Dr. O. Rama Devi"
   email: "odugu.rama@gmail.com"
 
-# Optional – doesn’t break minimal theme even if not used
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
