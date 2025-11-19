@@ -17,7 +17,7 @@ permalink: /books/
 2. **Information Technology Workshop**  
    *Author:* Dr. Odugu Rama Devi  
    *Publisher:* SMSAMS Publications  
-   *Date of Publication:* 02-10-2023  
+   *Publication Date:* 02-10-2023  
    *ISBN:* 978-81-978852-7-3  
 
 3. **Introducing Artificial Intelligence**  
@@ -47,6 +47,6 @@ permalink: /books/
 ## Book Chapters
 
 6. **Rotating Solar Trees**  
-   *Book Series:* Springer Lecture Notes in Electrical Engineering (LNEE) 601  
+   *Series:* Springer Lecture Notes in Electrical Engineering (LNEE) 601  
    *Year:* 2019  
    *DOI:* http://doi.org/10.1007/978-981-15-1420-3_50  
